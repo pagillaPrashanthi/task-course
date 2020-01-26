@@ -1,0 +1,4 @@
+queue=["ram","harish","indu","honey"]
+print(queue)
+queue.pop(1)
+print(queue)
